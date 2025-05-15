@@ -1,1 +1,1 @@
-![RESULTADO](../img/R1S1.png)
+![RESULTADO DEL RETO 1 DE LA SESIÓN 1](../img/R1S1.png)
