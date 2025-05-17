@@ -1,0 +1,1 @@
+![RESULTADO DEL RETO 02 DE LA SESIÓN 5](../img/R2S5.png)
