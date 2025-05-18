@@ -1,0 +1,7 @@
+INFO: Inicio de prueba automatizada - 2025-05-17 18:00:01
+WARNING: Latencia detectada en el módulo de comunicación
+ERROR: Fallo en la conexión con la base de datos - Código 503
+INFO: Verificación de integridad completada
+ERROR: Tiempo de respuesta excedido en el servicio de autenticación
+WARNING: Uso de memoria superior al límite recomendado
+INFO: Finalización de prueba - 2025-05-17 18:05:30

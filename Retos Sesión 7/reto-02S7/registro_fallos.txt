@@ -1,0 +1,2 @@
+Error al analizar el archivo: errores.log (El sistema no puede encontrar el archivo especificado)
+Error al analizar el archivo: errores.log (El sistema no puede encontrar el archivo especificado)
